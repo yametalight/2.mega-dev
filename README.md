@@ -1,1 +1,2 @@
-# 2.mega-dev
+# HTML Sudoku by MeryemCKahya  
+This project is a simple sudoku created using basic `HTML`
